@@ -171,6 +171,9 @@ Workdir$ git clone https://github.com/horeaporutiu/fabcar-openshift-public
 Workdir$ cd fabcar-openshift-public/
 ```
 
+(Note that `git clone https://github.com/horeaporutiu/fabcar-openshift-public` automatically redirects to 
+`git clone https://github.com/IBM/fabcar-openshift-public` so either one works :)
+
 In your terminal, go ahead and run the following command to set your 
 environmental variable. These are very important for the scripts that will
 add security and access policies to our cluster. These are necessary before 
