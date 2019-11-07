@@ -291,10 +291,9 @@ ibpconsole     1         1         1            1           55m
 ```
 
 ## Step 8. Log in to IBM Blockchain Platform console
-
 <br>
 <p align="center">
-  <img src="images/gifs/step7.gif">
+  <img src="https://i.imgur.com/qR3cH4C.gif">
 </p>
 <br>
 
@@ -335,7 +334,7 @@ the smart contract test.
 
 <br>
 <p align="center">
-  <img src="images/gifs/createCA.gif">
+  <img src="https://i.imgur.com/92GbFEd.gif">
 </p>
 <br>
 
@@ -359,7 +358,7 @@ This gif goes really fast, so you may need to refer to the values below.
 
 <br>
 <p align="center">
-  <img src="images/gifs/registerCAOrg1.gif">
+  <img src="https://i.imgur.com/n5Mvjlq.gif">
 </p>
 <br>
 
@@ -422,10 +421,9 @@ membership service providers links those certificates to a certain identity.
 The identity is stored in your wallet tab, in the IBM Blockchain Platform.
 
 Let's create the identity for the Org1 MSP. 
-
 <br>
 <p align="center">
-  <img src="images/gifs/org1MSP.gif">
+  <img src="https://i.imgur.com/u2Ee36D.gif">
 </p>
 <br>
 
@@ -464,10 +462,9 @@ identities. Note that in the gif, I edited the identity name. You do not need to
 
 Now that we have the identities associated with our certificates from both the Org1 and Ordering service, 
 we can go ahead and create peer and ordering nodes for those identities.
-
 <br>
 <p align="center">
-  <img src="images/gifs/firstPeer.gif">
+  <img src="https://i.imgur.com/KWscHKt.gif">
 </p>
 <br>
 
@@ -482,10 +479,9 @@ Click **Nodes** on left hand side bar. Click **Add peer**. Click **Create a peer
 - Associate Identity, existing Identity: `Org1 MSP Admin`
 
 Click **Add peer**.
-
 <br>
 <p align="center">
-  <img src="images/gifs/OSpeer.gif">
+  <img src="https://i.imgur.com/6mOp2CX.gif">
 </p>
 <br>
 
