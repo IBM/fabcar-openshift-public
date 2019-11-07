@@ -27,8 +27,8 @@ on OpenShift.
 # Flow Description
 1. The blockchain operator purchases an entitlement to the IBM Blockchain Platform V2.1.0.
 2. The blockchain operator deploys the IBM Blockchain Platform (which is running the latest Hyperledger Fabric version) onto
-a Red Hat OpenShift cluster.
-3. The blockchain operator logs in to the console, creates network components, and instantiates a smart contract on the Hyperledger Fabric network.
+a Red Hat OpenShift cluster. The operator creates a network onto the IBM Blockchain platform, eventually installing and instantiating the Fabcar smart contract on the network.
+3. The Node.js application server uses the Fabric SDK to interact with the deployed network on IBM Blockchain Platform and creates APIs for a web client.
 4. The Angular client uses the Node.js Fabric SDK to interact with the network.
 5. The User interacts with the Fabcar Angular web application to update and query the blockchain state.
 
