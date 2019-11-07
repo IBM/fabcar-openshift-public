@@ -342,7 +342,7 @@ This gif goes really fast, so you may need to refer to the values below.
 
 <br>
 <p align="center">
-  <img src="images/gifs/registerCAOrg1.gif">
+  <img src="https://i.imgur.com/n5Mvjlq.gif">
 </p>
 <br>
 
