@@ -263,8 +263,6 @@ Now, let's deploy the console itself!
 </p>
 <br>
 
-<!-- <a href="https://imgur.com/nv1FKxC">< title="source: imgur.com" /></a> -->
-
 To deploy the console we need to change a few details in the [**deployConsole.sh** script](https://github.com/horeaporutiu/fabcar-openshift-public/blob/master/deployConsole.sh). we need to modify the following details in the deployConsoleIBM.sh:
 
   * Replace [*DOMAIN*](https://github.com/horeaporutiu/fabcar-openshift-public/blob/master/deployConsole.sh#L14) with the name of your cluster domain. You can find this value by using the OpenShift web console. Use the dropdown menu next to OpenShift Container Platform at the top of the page to switch from Service Catalog to Cluster Console. Examine the url for that page. It will be similar to console.xyz.abc.com/k8s/cluster/projects. The value of the domain then would be xyz.abc.com, **after removing console and /k8s/cluster/projects**.
@@ -387,10 +385,9 @@ Click register user within Org1 CA node:
 
 
 Now we will do the same for Ordering Org.
-
 <br>
 <p align="center">
-  <img src="images/gifs/registerOS1.gif">
+  <img src="https://i.imgur.com/dGCNbbn.gif">
 </p>
 <br>
 
