@@ -14,7 +14,7 @@
 
 ### Github repo
 
-> https://github.com/IBM/fabcar-openshift-public
+> https://github.com/horeaporutiu/fabcar-openshift-public
 
 
 # Summary
@@ -56,7 +56,7 @@ a Red Hat OpenShift cluster. The operator creates a network onto the IBM Blockch
 
 # Instructions
 
-> Find the detailed steps for this pattern in the [readme file](https://github.com/horeaporutiu/fabcar-openshift). The steps will show you how to:
+> Find the detailed steps for this pattern in the [readme file](https://github.com/horeaporutiu/fabcar-openshift-public). The steps will show you how to:
 
 1. [Order IBM Blockchain Platform V2.1.0](#step-1-Order-IBM-Blockchain-Platform-V2.1.0)
 2. [Create an OpenShift cluster](#step-2-Create-an-OpenShift-cluster)
