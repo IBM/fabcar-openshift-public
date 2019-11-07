@@ -9,6 +9,8 @@
 # Author
 
 * Horea Porutiu <horea.porutiu@ibm.com>
+* Mihir Shah <mrshah@us.ibm.com>
+* Ratnakar Asara <rasara@us.ibm.com>
 
 # URLs
 
