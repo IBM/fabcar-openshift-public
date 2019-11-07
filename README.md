@@ -76,7 +76,7 @@ do not have one - you can get one with the link below:
 
 <br>
 <p align="center">
-  <img src="images/gifs/nonIBMERs.gif">
+  <img src="https://i.imgur.com/MeRlEuv.gif">
 </p>
 <br>
 
@@ -97,7 +97,7 @@ credit card info, since this isn't free :)
 
 <br>
 <p align="center">
-  <img src="images/gifs/createOS.gif">
+  <img src="https://i.imgur.com/cPIlUOT.gif">
 </p>
 <br>
 
@@ -129,7 +129,7 @@ If you haven't downloaded the [OpenShift CLI](https://cloud.ibm.com/docs/openshi
 
 <br>
 <p align="center">
-  <img src="images/gifs/ocPods.gif">
+  <img src="https://i.imgur.com/hVLkGqc.gif">
 </p>
 <br>
 
@@ -160,7 +160,7 @@ Nice job! You've successfully logged into your OpenShift cluster!
 
 <br>
 <p align="center">
-  <img src="images/gifs/applySecurity.gif">
+  <img src="https://i.imgur.com/eeP4L0k.gif">
 </p>
 <br>
 
@@ -202,14 +202,6 @@ clusterrolebinding.rbac.authorization.k8s.io/ibp-demo configured
 ```
 
 ## Step 5. Create a secret for your entitlement key
-
-<br>
-<p align="center">
-  <img src="images/gifs/step4.gif">
-</p>
-<br>
-
-**Note that the gif above has different values for docker-server - use the instructions below that have the `cp.icr.io` server**
 
 We now need to store the entitlement key that we got from [Step 1](https://github.com/horeaporutiu/fabcar-openshift-public#step-1-create-an-openshift-cluster).
 
@@ -257,9 +249,9 @@ Now, let's deploy the console itself!
 
  **Note - the gif uses a different script - please make sure to use deployConsole.sh**
 
- <br>
+<br>
 <p align="center">
-  <img src="https://i.imgur.com/nv1FKxC.gif">
+  <img src="images/gifs/step6.gif">
 </p>
 <br>
 
@@ -291,9 +283,10 @@ ibpconsole     1         1         1            1           55m
 ```
 
 ## Step 8. Log in to IBM Blockchain Platform console
+
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/qR3cH4C.gif">
+  <img src="images/gifs/step7.gif">
 </p>
 <br>
 
@@ -306,7 +299,7 @@ In the gif above, my domain is the following - **mycluster2-481968-37a53622c16dc
 
 <br>
 <p align="center">
-  <img src="images/gifs/acceptProxy.gif">
+  <img src="https://i.imgur.com/1227ptz.gif">
 </p>
 <br>
 
@@ -358,7 +351,7 @@ This gif goes really fast, so you may need to refer to the values below.
 
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/n5Mvjlq.gif">
+  <img src="images/gifs/registerCAOrg1.gif">
 </p>
 <br>
 
@@ -384,9 +377,10 @@ Click register user within Org1 CA node:
 
 
 Now we will do the same for Ordering Org.
+
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/dGCNbbn.gif">
+  <img src="images/gifs/registerOS1.gif">
 </p>
 <br>
 
@@ -421,9 +415,10 @@ membership service providers links those certificates to a certain identity.
 The identity is stored in your wallet tab, in the IBM Blockchain Platform.
 
 Let's create the identity for the Org1 MSP. 
+
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/u2Ee36D.gif">
+  <img src="images/gifs/org1MSP.gif">
 </p>
 <br>
 
@@ -441,7 +436,7 @@ Next, let's create the identity for the Ordering Service MSP.
 
 <br>
 <p align="center">
-  <img src="images/gifs/OSMSP.gif">
+  <img src="https://i.imgur.com/SIpipZy.gif">
 </p>
 <br>
 
@@ -462,9 +457,10 @@ identities. Note that in the gif, I edited the identity name. You do not need to
 
 Now that we have the identities associated with our certificates from both the Org1 and Ordering service, 
 we can go ahead and create peer and ordering nodes for those identities.
+
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/KWscHKt.gif">
+  <img src="images/gifs/firstPeer.gif">
 </p>
 <br>
 
@@ -479,9 +475,10 @@ Click **Nodes** on left hand side bar. Click **Add peer**. Click **Create a peer
 - Associate Identity, existing Identity: `Org1 MSP Admin`
 
 Click **Add peer**.
+
 <br>
 <p align="center">
-  <img src="https://i.imgur.com/6mOp2CX.gif">
+  <img src="images/gifs/OSpeer.gif">
 </p>
 <br>
 
@@ -500,7 +497,7 @@ on your newly created ordering service node.
 
 <br>
 <p align="center">
-  <img src="images/gifs/addOrg1Consortium.gif">
+  <img src="https://i.imgur.com/vTA83Dw.gif">
 </p>
 <br>
 
@@ -516,7 +513,7 @@ and access control. Let's create our channel.
 
 <br>
 <p align="center">
-  <img src="images/gifs/createChannel.gif">
+  <img src="https://i.imgur.com/P9143iK.gif">
 </p>
 <br>
 
@@ -530,7 +527,7 @@ Click **Create channel**.
 
 <br>
 <p align="center">
-  <img src="images/gifs/joinChannel.gif">
+  <img src="https://i.imgur.com/xxSAyJE.gif">
 </p>
 <br>
 
@@ -546,7 +543,7 @@ I've included the fabcar smart contract in this repo for convenience. **You're w
 
 <br>
 <p align="center">
-  <img src="images/gifs/installAndInstantiate.gif">
+  <img src="https://i.imgur.com/CyElons.gif">
 </p>
 <br>
 
@@ -569,7 +566,7 @@ Red Hat OpenShift cluster).
 
 <br>
 <p align="center">
-  <img src="images/gifs/exportConnection.gif">
+  <img src="https://i.imgur.com/CeDvvBW.gif">
 </p>
 <br>
 
@@ -587,7 +584,7 @@ and then move this downloaded connection profile into the `web-app/server` folde
 
 <br>
 <p align="center">
-  <img src="images/gifs/app-admin.gif">
+  <img src="https://i.imgur.com/aqTqqP4.gif">
 </p>
 <br>
 
@@ -610,7 +607,7 @@ certificate authority that is within our Red Hat OpenShift cluster.
 
 <br>
 <p align="center">
-  <img src="images/gifs/addCAURL.gif">
+  <img src="https://i.imgur.com/jwsyetj.gif">
 </p>
 <br>
 
@@ -625,7 +622,7 @@ value from "organization" -> "org1msp" -> certificateAuthorities". This would be
 
 <br>
 <p align="center">
-  <img src="images/gifs/startApp.gif">
+  <img src="https://i.imgur.com/QvoWkRj.gif">
 </p>
 <br>
 
@@ -646,7 +643,7 @@ Now we are ready to run the app to submit transactions and view the data in our 
 
 <br>
 <p align="center">
-  <img src="images/gifs/blocksAdded.gif">
+  <img src="https://i.imgur.com/Jq3m5bd.gif">
 </p>
 <br>
 
