@@ -257,11 +257,7 @@ Now, let's deploy the console itself!
 
  **Note - the gif uses a different script - please make sure to use deployConsole.sh**
 
-<br>
-<p align="center">
-  <img src="images/gifs/step6.gif">
-</p>
-<br>
+[Imgur](https://i.imgur.com/nv1FKxC.gifv)
 
 To deploy the console we need to change a few details in the [**deployConsole.sh** script](https://github.com/horeaporutiu/fabcar-openshift-public/blob/master/deployConsole.sh). we need to modify the following details in the deployConsoleIBM.sh:
 
