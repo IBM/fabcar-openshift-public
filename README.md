@@ -247,14 +247,6 @@ Good job! We're almost there!
 
 Now, let's deploy the console itself!
 
- **Note - the gif uses a different script - please make sure to use deployConsole.sh**
-
-<br>
-<p align="center">
-  <img src="images/gifs/step6.gif">
-</p>
-<br>
-
 To deploy the console we need to change a few details in the [**deployConsole.sh** script](https://github.com/horeaporutiu/fabcar-openshift-public/blob/master/deployConsole.sh). we need to modify the following details in the deployConsoleIBM.sh:
 
   * Replace [*DOMAIN*](https://github.com/horeaporutiu/fabcar-openshift-public/blob/master/deployConsole.sh#L14) with the name of your cluster domain. You can find this value by using the OpenShift web console. Use the dropdown menu next to OpenShift Container Platform at the top of the page to switch from Service Catalog to Cluster Console. Examine the url for that page. It will be similar to console.xyz.abc.com/k8s/cluster/projects. The value of the domain then would be xyz.abc.com, **after removing console and /k8s/cluster/projects**.
@@ -283,10 +275,9 @@ ibpconsole     1         1         1            1           55m
 ```
 
 ## Step 8. Log in to IBM Blockchain Platform console
-
 <br>
 <p align="center">
-  <img src="images/gifs/step7.gif">
+  <img src="https://i.imgur.com/qR3cH4C.gif">
 </p>
 <br>
 
@@ -377,10 +368,9 @@ Click register user within Org1 CA node:
 
 
 Now we will do the same for Ordering Org.
-
 <br>
 <p align="center">
-  <img src="images/gifs/registerOS1.gif">
+  <img src="https://i.imgur.com/dGCNbbn.gif">
 </p>
 <br>
 
@@ -418,7 +408,7 @@ Let's create the identity for the Org1 MSP.
 
 <br>
 <p align="center">
-  <img src="images/gifs/org1MSP.gif">
+  <img src="https://i.imgur.com/u2Ee36D.gif"
 </p>
 <br>
 
@@ -460,7 +450,7 @@ we can go ahead and create peer and ordering nodes for those identities.
 
 <br>
 <p align="center">
-  <img src="images/gifs/firstPeer.gif">
+  <img src="https://i.imgur.com/KWscHKt.gif">
 </p>
 <br>
 
@@ -478,7 +468,7 @@ Click **Add peer**.
 
 <br>
 <p align="center">
-  <img src="images/gifs/OSpeer.gif">
+  <img src="https://i.imgur.com/6mOp2CX.gif">
 </p>
 <br>
 
