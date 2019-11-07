@@ -14,7 +14,7 @@
 
 ### Github repo
 
-> https://github.com/horeaporutiu/fabcar-openshift-public
+> https://github.com/IBM/fabcar-openshift-public
 
 
 # Summary
