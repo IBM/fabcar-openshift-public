@@ -50,7 +50,7 @@ do not have one - you can get one with the link below:
   - [Node v8.x or greater and npm v5.x or greater](https://nodejs.org/en/download)
   - [OpenShift Origin CLI](https://cloud.ibm.com/docs/openshift?topic=openshift-openshift-cli#cli_oc)
 
-# Steps (Customers + Clients + Developers (i.e.NON-IBM))
+# Steps
 1. [Order IBM Blockchain Platform V2.1.0](#step-1-Order-IBM-Blockchain-Platform-V2.1.0)
 2. [Create an OpenShift cluster](#step-2-Create-an-OpenShift-cluster)
 3. [Log in to your OpenShift cluster](#step-3-Log-in-to-your-OpenShift-cluster)
