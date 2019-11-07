@@ -4,7 +4,7 @@
 
 # Long title
 
-> Deploy a Hyperledger Fabric smart contract on the IBM Blockchain Platform running on the Red Hat OpenShift Container Platform 
+> Deploy the fabcar Hyperledger Fabric smart contract on the IBM Blockchain Platform running on the Red Hat OpenShift Container Platform 
 
 # Author
 
