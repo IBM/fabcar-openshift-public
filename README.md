@@ -1,6 +1,6 @@
 # Deploy a smart contract on the IBM Blockchain Platform running on OpenShift
 
-🚨🚨🚨**Disclaimer: this is NOT a free pattern.** You must purchase the IBM Blockchain Platform V2.1.0, and an OpenShift Cluster to run this pattern. For a free blockchain pattern, please visit either the [Fabcar Code Pattern](https://github.com/IBM/fabcar-blockchain-sample), or the [e-vote code pattern](https://github.com/IBM/evote).🚨🚨🚨
+🚨🚨🚨**Disclaimer: this is NOT a free pattern.** You must purchase the IBM Blockchain Platform V2.1.0 through a salesperson, and an OpenShift Cluster to run this pattern. For a free blockchain pattern, please visit either the [Fabcar Code Pattern](https://github.com/IBM/fabcar-blockchain-sample), or the [e-vote code pattern](https://github.com/IBM/evote).🚨🚨🚨
 
 **Special thanks to Mihir Shah and Ratnakar Asara for their scripts used to deploy OpenShift.**
 
@@ -81,7 +81,7 @@ do not have one - you can get one with the link below:
 <br>
 
 The first step to getting your blockchain network to run on any [x86_64 architecture supported by RedHat OpenShift 3.11](https://docs.openshift.com/container-platform/3.11/install/prerequisites.html) is to order the IBM Blockchain Platform V2.1.0 
-from [Passport Advantage](https://www.ibm.com/software/passportadvantage/pao_customer.html) online. You'll likely need to create an IBMid first. 
+from [Passport Advantage](https://www.ibm.com/software/passportadvantage/pao_customer.html) online. You need to go through a salesperson first to do this. You'll likely need to create an IBMid first. 
 After you create your IBMid, go ahead and log in with that email into 
 Paspoint Advantage from the link above.
 Once you've done this,
